@@ -7,7 +7,9 @@
 - 📫 Me in [telegram](http://t.me/yeezy_na_izi) and [vk](https://vk.com/yeezy_na_izi)
 - 🤔 I’m looking for help with Front 😏
 - ⚡️ Fun fact: I fall in love with peach ❤️🍑❤️
+
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+<a href="https://www.buymeacoffee.com/yeezy-na-izi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
 📈 My GitHub Stats
