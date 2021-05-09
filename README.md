@@ -22,7 +22,7 @@
 
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Django and main principle tdd
-- 💞️ I’m want to collaborate with good people.
+- 💞️ I want to collaborate with good people.
 - 🤔 I’m looking for help with Front 😏
 - ⚡️ Fun fact: I fall in love with peach ❤️🍑❤️
 
