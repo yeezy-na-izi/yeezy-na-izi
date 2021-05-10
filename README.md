@@ -16,9 +16,10 @@
   <img align="left" alt="Yeezy-na-izi's Twitter" width="14px" src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/SamCopeland/phpZC7lK9.png" />
 </a>
 
+![](https://visitor-badge.glitch.me/badge?page_id=yeezy-na-izi.yeezy-na-izi)
+
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif" width="500" />
  
-![](https://visitor-badge.glitch.me/badge?page_id=yeezy-na-izi.yeezy-na-izi)
 
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Django and main principle tdd
