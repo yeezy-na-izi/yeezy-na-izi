@@ -1,8 +1,5 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I’m [@yeezy-na-izi](https://github.com/yeezy-na-izi/)
 
-<a href="https://open.spotify.com/user/316xwghdk6rp42up5tabbb67bc7y?si=84ca907ecbed41f4">
-  <img align="left" alt="Yeezy-na-izi's Spotify" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 <a href="https://twitter.com/yeezynaizi">
   <img align="left" alt="Yeezy-na-izi's Twitter" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/f9fd89c63d9f8c577d9a5c2c08dfd443b60bc4fa/assets/twitter.svg" />
 </a>
