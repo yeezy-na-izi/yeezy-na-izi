@@ -1,23 +1,13 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I’m [@yeezy-na-izi](https://github.com/yeezy-na-izi/)
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I’m [@yeezy-na-izi](https://github.com/yeezy-na-izi/) ![](https://visitor-badge.glitch.me/badge?page_id=yeezy-na-izi.yeezy-na-izi)
 
-<a href="https://twitter.com/yeezynaizi">
-  <img align="left" alt="Yeezy-na-izi's Twitter" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/f9fd89c63d9f8c577d9a5c2c08dfd443b60bc4fa/assets/twitter.svg" />
-</a>
-<a href="http://t.me/yeezy_na_izi">
-  <img align="left" alt="Yeezy-na-izi's Twitter" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/480px-Telegram_Messenger.png" />
-</a>
-<a href="https://vk.com/yeezy_na_izi">
-  <img align="left" alt="Yeezy-na-izi's Twitter" width="24Нpx" src="https://cdn.worldvectorlogo.com/logos/vk-1.svg" />
-</a>
-<a href="https://www.chess.com/member/yeezy_na_izi">
-  <img align="left" alt="Yeezy-na-izi's Twitter" width="14px" src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/SamCopeland/phpZC7lK9.png" />
-</a>
+## Links
+[![Telegram](https://img.shields.io/badge/Telegram-262424?style=for-the-badge&logo=Telegram)](http://t.me/yeezy_na_izi)
+[![Instagram](https://img.shields.io/badge/Instagram-262424?style=for-the-badge&logo=Instagram)](https://www.instagram.com/yeezy_na_izi)
+[![Vkontakte](https://img.shields.io/badge/VK-262424?style=for-the-badge&logo=Vk&logoColor=0077FF)](https://vk.com/yeezy_na_izi)
+[![Twitter](https://img.shields.io/badge/Twitter-262424?style=for-the-badge&logo=Twitter)](https://twitter.com/yeezynaizi)
 
-![](https://visitor-badge.glitch.me/badge?page_id=yeezy-na-izi.yeezy-na-izi)
-
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif" width="500" />
- 
-
+## Strange information
+  
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Django and main principle tdd
 - 💞️ I want to collaborate with good people.
@@ -28,17 +18,8 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/yeezynaizi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-**Languages and Tools:**  
-<code>
-  <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-</code>
-<code>
-  <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-</code>
-<code>
-  <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">
-</code>
+## Statistics
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeezy-na-izi&theme=dark) 
 
-📈 My GitHub Stats
-<p> <img src="https://github-readme-stats.vercel.app/api?username=yeezy-na-izi&show_icons=true&theme=gotham" alt="yeezy-na-izi" />
+<p> <img src="https://github-readme-stats.vercel.app/api?username=yeezy-na-izi&show_icons=true&theme=dark" alt="yeezy-na-izi" />
