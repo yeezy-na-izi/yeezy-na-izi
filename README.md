@@ -1,6 +1,5 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I’m [@yeezy-na-izi](https://github.com/yeezy-na-izi/) ![](https://visitor-badge.glitch.me/badge?page_id=yeezy-na-izi.yeezy-na-izi)
 
-## Links
 [![Telegram](https://img.shields.io/badge/Telegram-262424?style=for-the-badge&logo=Telegram)](http://t.me/yeezy_na_izi)
 [![Instagram](https://img.shields.io/badge/Instagram-262424?style=for-the-badge&logo=Instagram)](https://www.instagram.com/yeezy_na_izi)
 [![Vkontakte](https://img.shields.io/badge/VK-262424?style=for-the-badge&logo=Vk&logoColor=0077FF)](https://vk.com/yeezy_na_izi)
