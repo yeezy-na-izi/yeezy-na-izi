@@ -11,6 +11,7 @@
 - 🌱 I’m currently learning Django and main principle tdd
 - 💞️ I want to collaborate with good people.
 - 🤔 I’m looking for help with Front 😏
+- 🎓 I'm currently getting a bachelor of applied mathematics and computer science at MIREA
 - ⚡️ Fun fact: I fall in love with peach ❤️🍑❤️
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
@@ -19,10 +20,4 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ## Statistics
 
-[![My Repository's Stats](https://github-readme-stats.vercel.app/api?username=yeezy-na-izi&show_icons=true&theme=dark&hide=issues)](https://github.com/yeezy-na-izi/)
-
 [![Yeezy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yeezy_na_izi&theme=dark&langs_count=3)](https://github.com/yeezy-na-izi/)
-
-[![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeezy-na-izi&theme=dark&layout=compact&card_width=445)](https://github.com/yeezy-na-izi/)
-
-
