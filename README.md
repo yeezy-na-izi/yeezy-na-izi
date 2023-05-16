@@ -20,8 +20,6 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ## Statistics
 
-[![Yeezy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yeezy_na_izi&theme=dark&langs_count=3)](https://github.com/yeezy-na-izi/)
-
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
