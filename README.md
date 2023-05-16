@@ -23,8 +23,6 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-544%20hrs%201%20min-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -45,5 +43,5 @@ Mac                      14 hrs 46 mins      ███████████�
 ```
 
 
- Last Updated on 16/05/2023 08:01:24 UTC
+ Last Updated on 16/05/2023 08:02:58 UTC
 <!--END_SECTION:waka-->
