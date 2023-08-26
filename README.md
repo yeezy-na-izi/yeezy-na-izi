@@ -25,15 +25,13 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ```text
 💬 Programming Languages: 
-JavaScript               22 mins             █████████████████████████   98.42 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
