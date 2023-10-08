@@ -25,15 +25,13 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 13 mins        ███████████████████░░░░░░   77.76 % 
-CSV/TSV                  20 mins             █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  1 hr 34 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 34 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
