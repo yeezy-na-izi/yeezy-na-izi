@@ -25,13 +25,13 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ```text
 💬 Programming Languages: 
-C                        55 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-CLion                    55 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      55 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
