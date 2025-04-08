@@ -25,13 +25,14 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   34 mins             ██████████████████░░░░░░░   72.62 % 
+Text                     13 mins             ███████░░░░░░░░░░░░░░░░░░   27.38 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  47 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      47 mins             █████████████████████████   100.00 % 
 ```
 
 
